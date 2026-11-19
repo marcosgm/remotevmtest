@@ -1,0 +1,11 @@
+#cloud-config
+package_update: true
+packages:
+  - python3-venv
+  - python3-pip
+  - curl
+runcmd:
+  - [mkdir, -p, /mnt/locality]
+  - [chown, "bench:bench", /mnt/locality]
+  - [sudo, -u, bench, python3, -m, venv, /home/bench/venv]
+  - [sudo, -u, bench, /home/bench/venv/bin/pip, install, "requests>=2.32,<3", "numpy>=2.2,<3", "nbformat>=5.10,<6", "nbclient>=0.10,<1", "ipykernel>=6.29,<8"]

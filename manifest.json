@@ -1,0 +1,52 @@
+[
+  {
+    "name": "linux-6.7.tar.gz",
+    "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.7.tar.gz",
+    "bytes": 228179912,
+    "sha256": "268e7af0b97722270fa9812812fbfa9e634ef87da12267b9be04aeff69025029",
+    "checksum_source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/sha256sums.asc",
+    "source_download_seconds": 0.5043451349999941,
+    "target_tier": "Cold",
+    "uploaded": true
+  },
+  {
+    "name": "linux-6.8.tar.gz",
+    "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.8.tar.gz",
+    "bytes": 230060117,
+    "sha256": "26512115972bdf017a4ac826cc7d3e9b0ba397d4f85cd330e4e4ff54c78061c8",
+    "checksum_source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/sha256sums.asc",
+    "source_download_seconds": 0.4154755740000269,
+    "target_tier": "Cold",
+    "uploaded": true
+  },
+  {
+    "name": "linux-6.9.tar.gz",
+    "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.9.tar.gz",
+    "bytes": 232821653,
+    "sha256": "7beaaaf5048d1f6bcfe2006846b4dc6a8a6617426500c856fab28f9005ff36ea",
+    "checksum_source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/sha256sums.asc",
+    "source_download_seconds": 0.4176198709999994,
+    "target_tier": "Cold",
+    "uploaded": true
+  },
+  {
+    "name": "linux-6.10.tar.gz",
+    "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.tar.gz",
+    "bytes": 234330506,
+    "sha256": "37041701dab67f8e1bd699d728fec07d6098abd147b366f0c7ad1a3fb1b58619",
+    "checksum_source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/sha256sums.asc",
+    "source_download_seconds": 0.41586626800000204,
+    "target_tier": "Cold",
+    "uploaded": true
+  },
+  {
+    "name": "linux-6.12.tar.gz",
+    "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.tar.gz",
+    "bytes": 239929282,
+    "sha256": "1376ce98485a0c8de4635d0bfb88760924e4a818c0439d830738bb1c690b7ca4",
+    "checksum_source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/sha256sums.asc",
+    "source_download_seconds": 0.42484037799999896,
+    "target_tier": "Cold",
+    "uploaded": true
+  }
+]

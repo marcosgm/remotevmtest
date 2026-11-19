@@ -1,0 +1,13 @@
+{
+  "run": "20261119c",
+  "subscription": "<your-subscription-id>",
+  "storage_region": "westus2",
+  "storage_region_name": "West US 2",
+  "remote_region": "swedencentral",
+  "remote_region_name": "Sweden Central",
+  "vm_size": "Standard_D2ds_v5",
+  "trials": 3,
+  "epochs": 3,
+  "bandwidth_usd_per_decimal_gb": 0.05,
+  "bandwidth_scope": "North America to Europe and Europe to North America"
+}
